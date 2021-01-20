@@ -1,5 +1,6 @@
-![Hero](images/glacier.jpeg)
+![Hero](images/sergey-svechnikov-189224-unsplash.jpg "Photo by Sergey Svechnikov on Unsplash")
 
+[!]
 <!--
 **rcharlton/rcharlton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

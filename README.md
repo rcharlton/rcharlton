@@ -1,5 +1,7 @@
 ![Hero](images/sergey-svechnikov-189224-unsplash.jpg "Photo by Sergey Svechnikov on Unsplash")
 
+Find me on [![Twitter][twitter-image]][twitter-url] and [![LinkedIn][linkedin-image]][linkedin-url].
+
 ![](https://img.shields.io/badge/Xcode-informational?style=flat&logo=xcode&logoColor=white&color=1575F9)
 ![](https://img.shields.io/badge/Swift-informational?style=flat&logo=swift&logoColor=white&color=FA7343)
 ![](https://img.shields.io/badge/RxSwift-informational?style=flat&logo=reactivex&logoColor=white&color=B7178C)
@@ -13,6 +15,25 @@
 ![](https://img.shields.io/badge/C/C++-informational?style=flat&logo=C++&logoColor=white&color=00599C)
 ![](https://img.shields.io/badge/Boost-informational?style=flat&color=F7901E)
 
+<!-- images -->
+
+[twitter-image]: /images/twitter-24.png (Twitter icon)
+[linkedin-image]: /images/linkedin-24.png (LinkedIn icon)
+
+<!-- links -->
+
+[twitter-url]: https://twitter.com/robincharlton
+[github-url]: https://github.com/rcharlton
+[linkedin-url]: https://www.linkedin.com/in/robincharlton/
+
+<!-- Resources -->
+
+<!-- Icons: https://simpleicons.org/ -->
+<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
+<!-- Emojis: https://emojipedia.org/emoji/ -->
+<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
+<!-- Shields: https://shields.io/ -->
+<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
 
 <!--
 **rcharlton/rcharlton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

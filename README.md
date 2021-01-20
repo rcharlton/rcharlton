@@ -2,8 +2,9 @@
 
 I’m a software engineer focusing on iOS, tvOS and watchOS apps for media, publishing and education. Past projects include video streaming apps, digital comics and magazines, language study-tools and augmented reality apps. I’ve built projects for Discovery Networks, Macmillan Publishing, Education First, the Museum of London and many other organisations.
 
-Occasional writings at [Branch◦Prediction](https://rcharlton.github.io) and you can reach me on [![Twitter][twitter-image]][twitter-url] or [![LinkedIn][linkedin-image]][linkedin-url]
+Find occasional writings at [Branch◦Prediction](https://rcharlton.github.io) and reach out to me on [![Twitter][twitter-image]][twitter-url] or [![LinkedIn][linkedin-image]][linkedin-url]
 
+<br>
 
 ![](https://img.shields.io/badge/Xcode-informational?style=flat&logo=xcode&logoColor=white&color=1575F9)
 ![](https://img.shields.io/badge/Swift-informational?style=flat&logo=swift&logoColor=white&color=FA7343)

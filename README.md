@@ -1,6 +1,8 @@
 ![Hero](images/sergey-svechnikov-189224-unsplash.jpg "Photo by Sergey Svechnikov on Unsplash")
 
-Find me on [![Twitter][twitter-image]][twitter-url] and [![LinkedIn][linkedin-image]][linkedin-url].
+Occasional writings can be found at [Branch◦Prediction](https://rcharlton.github.io)
+
+[![Twitter][twitter-image]][twitter-url] [![LinkedIn][linkedin-image]][linkedin-url]
 
 ![](https://img.shields.io/badge/Xcode-informational?style=flat&logo=xcode&logoColor=white&color=1575F9)
 ![](https://img.shields.io/badge/Swift-informational?style=flat&logo=swift&logoColor=white&color=FA7343)
@@ -17,7 +19,7 @@ Find me on [![Twitter][twitter-image]][twitter-url] and [![LinkedIn][linkedin-im
 
 <!-- images -->
 
-[twitter-image]: /images/twitter-24.png (Twitter icon)
+[twitter-image]: /images/twitter.png (Twitter icon)
 [linkedin-image]: /images/logo.png (LinkedIn icon)
 
 <!-- links -->

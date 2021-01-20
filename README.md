@@ -18,7 +18,7 @@ Find me on [![Twitter][twitter-image]][twitter-url] and [![LinkedIn][linkedin-im
 <!-- images -->
 
 [twitter-image]: /images/twitter-24.png (Twitter icon)
-[linkedin-image]: /images/linkedin-24.png (LinkedIn icon)
+[linkedin-image]: /images/logo.png (LinkedIn icon)
 
 <!-- links -->
 

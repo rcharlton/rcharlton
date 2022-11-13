@@ -2,7 +2,7 @@
 
 I’m a software engineer focusing on iOS, tvOS and watchOS apps for media, publishing and education. Past projects include video streaming apps, digital comics and magazines, language study-tools and augmented reality apps. I’ve built projects for Discovery Networks, Macmillan Publishing, Education First, the Museum of London and many other organisations.
 
-Read occasional writings at [Branch◦Prediction](https://rcharlton.github.io), and find me on [![Twitter][twitter-image]][twitter-url] or [![LinkedIn][linkedin-image]][linkedin-url]
+Read occasional writings at [Branch◦Prediction](https://rcharlton.github.io), and find me at [![Mastodon][mastodon-image]][mastodon-url] `@sp1ndrift@mastodon.social`, [![Twitter][twitter-image]][twitter-url] or [![LinkedIn][linkedin-image]][linkedin-url]
 
 <br>
 
@@ -21,11 +21,13 @@ Read occasional writings at [Branch◦Prediction](https://rcharlton.github.io), 
 
 <!-- images -->
 
+[mastodon-image]: /images/mastodon24.png (Mastodon icon)
 [twitter-image]: /images/twitter24.png (Twitter icon)
 [linkedin-image]: /images/linkedin24.png (LinkedIn icon)
 
 <!-- links -->
 
+[mastodon-url]: https://joinmastodon.org
 [twitter-url]: https://twitter.com/robincharlton
 [github-url]: https://github.com/rcharlton
 [linkedin-url]: https://www.linkedin.com/in/robincharlton/
